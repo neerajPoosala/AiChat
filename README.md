@@ -13,3 +13,4 @@
 `pip install python`
 2. openai library
 `pip install openai`
+3. openai api key
