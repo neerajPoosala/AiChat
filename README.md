@@ -8,7 +8,7 @@
 
 
 # prerequisites:
-> Run the following commands in commad prompt
+> Run the following commands in command prompt
 1. python
 `pip install python`
 2. openai library
